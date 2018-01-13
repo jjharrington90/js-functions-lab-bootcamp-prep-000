@@ -5,7 +5,7 @@ function happyHolidays (String) {
 }
 
 function happyHolidaysTo (name) {
-  if (name) "Happy holidays"; {
+  if (name) "Happy holidays, ${name}"; {
     return `Happy holidays, ${name}!`
   }
 }
