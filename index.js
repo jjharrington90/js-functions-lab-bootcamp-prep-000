@@ -10,8 +10,8 @@ function happyHolidaysTo (name) {
   }
 }
 
-function happyHolidayTo (string) {
-  if (string) `Happy ${holiday}, ${name}!`; {
+function happyHolidayTo (holiday, name) {
+  if (holiday, name) `Happy ${holiday}, ${name}!`; {
     return `Happy ${holiday}, ${name}!`
   }
 }
